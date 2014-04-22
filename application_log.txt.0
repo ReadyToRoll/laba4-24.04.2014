@@ -1,0 +1,20 @@
+апр 22, 2014 6:41:07 PM laba4.Run main
+INFO: Variables initialized
+апр 22, 2014 6:41:11 PM laba4.Run main
+INFO: First persona initialized as sanguine
+апр 22, 2014 6:41:13 PM laba4.Run main
+INFO: Second persona initialized as melancholiac
+апр 22, 2014 6:41:13 PM laba4.Run main
+INFO: Cheking functions by asserts done
+апр 22, 2014 6:41:13 PM laba4.Run main
+INFO: Starting of a major cycle
+апр 22, 2014 6:41:13 PM laba4.Run main
+SEVERE: Exception: 
+StatException (22)
+	at laba4.Run.handle(Run.java:12)
+	at laba4.Run.main(Run.java:161)
+
+апр 22, 2014 6:41:13 PM laba4.Run main
+INFO: Terminating..
+апр 22, 2014 6:41:13 PM laba4.Run main
+FINE: Done
